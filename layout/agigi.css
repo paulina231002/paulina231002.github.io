@@ -1,0 +1,66 @@
+.header {
+	background-color:pink;
+	text-align: center;
+	padding: 30px;
+}
+.header h1{
+	color:blue;
+	font-size: 60px;
+	text-align: center;
+}
+.header p{
+	color:blue;
+	font-size: 20px; 
+}
+.menu{
+	background-color:gray;	
+	overflow: hidden;
+}
+.menu a{
+	float:left;
+	display: block;
+	color:black ;
+	text-align: center; 
+	padding: 16px;
+}
+.menu a:hover{
+	color: black;
+	background-color:white; 
+}
+.izquierda{
+	float: left;
+	width: 60%;
+}
+.item{
+background-color:yellow;
+padding-left: 20px;
+margin-top: 20px;
+ }
+.imagen{
+	width: 200px;
+}
+.derecha{
+	float: left;
+	width: 20%;
+	background-color:;
+	padding-top:  -20px ;
+	padding-left: 40px; 
+
+
+}
+.contenido:after;{
+	content: "";
+	display: table;
+	clear: both;
+
+
+}
+.footer{
+	padding: 10px;
+	text-align: center;
+	background-color: purple;
+	margin-top: 10px;
+	width: 1850px;
+	height: 100px;
+	float: left;
+}
